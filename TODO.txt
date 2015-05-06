@@ -1,0 +1,6 @@
+Dec 6, 2014 by NJJ
+- Add test cases Ouput == Label
+- Parallelise Backpropagation (independent per example loss and weight corrections)
+- Add Boost::Program_options customization
+- Add a fully working real life (test) case
+
